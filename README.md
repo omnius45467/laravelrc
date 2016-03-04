@@ -1,0 +1,2 @@
+# laravelrc
+Short .laravelrc File 
